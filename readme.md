@@ -3,7 +3,7 @@ yeoman on windows
 1. install node.js 
 http://nodejs.org/
 
-2. download zip from https://github.com/shimondoodkin/yeoman-windows to C:\Program Files\nodejs
+2. download zip from https://github.com/shimondoodkin/yeoman-windows and extract to C:\Program Files\nodejs without a folder
 
 3. you should have python, verion 3.0+ seems like ok
 http://www.python.org/download/
